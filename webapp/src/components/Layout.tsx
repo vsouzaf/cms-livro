@@ -22,7 +22,7 @@ export const Layout = ({ children }: { children: React.ReactNode }) => {
           <div className="flex h-16 items-center justify-between">
             <Link to="/" className="flex items-center space-x-2 font-semibold text-lg">
               <Book className="h-6 w-6 text-primary" />
-              <span>Artefatos do Livro</span>
+              <span>Meu livro</span>
             </Link>
 
             {/* Desktop Navigation */}
@@ -99,7 +99,7 @@ export const Layout = ({ children }: { children: React.ReactNode }) => {
             <div>
               <div className="flex items-center space-x-2 font-semibold text-lg mb-4">
                 <Book className="h-6 w-6 text-primary" />
-                <span>Artefatos do Livro</span>
+                <span>Meu livro</span>
               </div>
               <p className="text-muted-foreground">
                 Explore todos os recursos visuais e artefatos do livro de forma organizada e intuitiva.
@@ -126,7 +126,7 @@ export const Layout = ({ children }: { children: React.ReactNode }) => {
           </div>
           
           <div className="border-t mt-8 pt-8 text-center text-muted-foreground">
-            <p>&copy; 2024 Artefatos do Livro. {t('footer.rights')}</p>
+            <p>&copy; 2024 Meu livro. {t('footer.rights')}</p>
           </div>
         </div>
       </footer>
