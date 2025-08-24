@@ -32,7 +32,7 @@ const Home = () => {
                 <Button size="lg" className="bg-white text-primary hover:bg-white/90">
                   {t('home.hero.cta')} <ExternalLink className="ml-2 h-4 w-4" />
                 </Button>
-                <Button size="lg" variant="outline" className="border-white/30 text-white hover:bg-white/10" asChild>
+                <Button size="lg" variant="outline" className="border-white/30 bg-transparent text-white hover:bg-white/10" asChild>
                   <Link to="/artifacts">
                     {t('home.hero.viewArtifacts')} <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
@@ -187,7 +187,7 @@ const Home = () => {
                 <Button size="lg" className="bg-white text-primary hover:bg-white/90">
                   {t('home.hero.cta')} <ExternalLink className="ml-2 h-4 w-4" />
                 </Button>
-                <Button size="lg" variant="outline" className="border-white/30 text-white hover:bg-white/10" asChild>
+                <Button size="lg" variant="outline" className="border-white/30 bg-transparent text-white hover:bg-white/10" asChild>
                   <Link to="/artifacts">
                     {t('home.hero.viewArtifacts')} <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
