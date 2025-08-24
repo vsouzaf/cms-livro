@@ -1,0 +1,108 @@
+{
+  "home": {
+    "hero": {
+      "title": "Transform Your Life with This Revolutionary Book",
+      "subtitle": "Discover proven strategies that have changed the lives of thousands of readers around the world",
+      "cta": "Buy Now",
+      "viewArtifacts": "View Artifacts"
+    },
+    "about": {
+      "title": "About the Book",
+      "description": "This revolutionary book combines years of research and practical experience to offer a complete guide to personal transformation. With innovative approaches and tested strategies, you'll discover how to overcome obstacles and achieve your most ambitious goals."
+    },
+    "benefits": {
+      "title": "Why This Book is Different",
+      "items": [
+        {
+          "title": "Proven Methods",
+          "description": "Strategies based on scientific research and real results from thousands of readers."
+        },
+        {
+          "title": "Practical Approach",
+          "description": "Exercises and tools you can apply immediately in your daily life."
+        },
+        {
+          "title": "Ongoing Support",
+          "description": "Access to additional resources, templates, and an active community of readers."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "What Readers Say",
+      "items": [
+        {
+          "name": "Maria Silva",
+          "role": "Entrepreneur",
+          "content": "This book completely changed my perspective on personal growth. The strategies are practical and really work!"
+        },
+        {
+          "name": "João Santos",
+          "role": "Project Manager",
+          "content": "Finally a book that gets straight to the point. I implemented the techniques and saw results in just a few weeks."
+        },
+        {
+          "name": "Ana Costa",
+          "role": "Coach",
+          "content": "I recommend it to all my clients. It's a powerful tool for personal and professional transformation."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "Who is this book for?",
+          "answer": "The book is suitable for anyone seeking personal and professional growth, regardless of age or area of expertise."
+        },
+        {
+          "question": "How long does it take to see results?",
+          "answer": "The first results can be observed within the first weeks of applying the strategies presented."
+        },
+        {
+          "question": "Is there a satisfaction guarantee?",
+          "answer": "Yes, we offer a 30-day guarantee. If you're not satisfied, we'll refund 100% of your investment."
+        },
+        {
+          "question": "Can I access the artifacts digitally?",
+          "answer": "Yes, all buyers have free access to digital artifacts through this platform."
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "title": "Book Artifacts",
+    "subtitle": "Explore our complete collection of diagrams, flowcharts, graphs, and illustrations. Use the filters to find exactly what you need.",
+    "search": "Search artifacts...",
+    "filterChapter": "Filter by chapter",
+    "filterType": "Filter by type",
+    "allChapters": "All chapters",
+    "allTypes": "All types",
+    "clearFilters": "Clear Filters",
+    "resultsCount": "{{count}} artifact found",
+    "resultsCount_plural": "{{count}} artifacts found",
+    "noResults": {
+      "title": "No artifacts found",
+      "description": "Try adjusting your filters or search term"
+    },
+    "viewDetails": "View Details",
+    "stats": {
+      "totalArtifacts": "Total Artifacts",
+      "chapters": "Chapters",
+      "differentTypes": "Different Types"
+    }
+  },
+  "artifactDetail": {
+    "backToArtifacts": "Back to Artifacts",
+    "relatedArtifacts": "Related Artifacts",
+    "noRelated": "No related artifacts found"
+  },
+  "footer": {
+    "contact": "Contact",
+    "social": "Social Media",
+    "rights": "All rights reserved."
+  },
+  "language": {
+    "portuguese": "Português",
+    "english": "English"
+  }
+}

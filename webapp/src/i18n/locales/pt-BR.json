@@ -1,0 +1,108 @@
+{
+  "home": {
+    "hero": {
+      "title": "Transforme Sua Vida com Este Livro Revolucionário",
+      "subtitle": "Descubra estratégias comprovadas que mudaram a vida de milhares de leitores ao redor do mundo",
+      "cta": "Comprar Agora",
+      "viewArtifacts": "Ver Artefatos"
+    },
+    "about": {
+      "title": "Sobre o Livro",
+      "description": "Este livro revolucionário combina anos de pesquisa e experiência prática para oferecer um guia completo de transformação pessoal. Com abordagens inovadoras e estratégias testadas, você descobrirá como superar obstáculos e alcançar seus objetivos mais ambiciosos."
+    },
+    "benefits": {
+      "title": "Por que Este Livro é Diferente",
+      "items": [
+        {
+          "title": "Métodos Comprovados",
+          "description": "Estratégias baseadas em pesquisas científicas e resultados reais de milhares de leitores."
+        },
+        {
+          "title": "Abordagem Prática",
+          "description": "Exercícios e ferramentas que você pode aplicar imediatamente em sua vida diária."
+        },
+        {
+          "title": "Suporte Contínuo",
+          "description": "Acesso a recursos adicionais, templates e uma comunidade ativa de leitores."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "O que os Leitores Dizem",
+      "items": [
+        {
+          "name": "Maria Silva",
+          "role": "Empresária",
+          "content": "Este livro mudou completamente minha perspectiva sobre crescimento pessoal. As estratégias são práticas e realmente funcionam!"
+        },
+        {
+          "name": "João Santos",
+          "role": "Gerente de Projetos",
+          "content": "Finalmente um livro que vai direto ao ponto. Implementei as técnicas e vi resultados em poucas semanas."
+        },
+        {
+          "name": "Ana Costa",
+          "role": "Coach",
+          "content": "Recomendo para todos os meus clientes. É uma ferramenta poderosa de transformação pessoal e profissional."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "question": "Para quem é indicado este livro?",
+          "answer": "O livro é indicado para qualquer pessoa que busca crescimento pessoal e profissional, independente da idade ou área de atuação."
+        },
+        {
+          "question": "Quanto tempo leva para ver resultados?",
+          "answer": "Os primeiros resultados podem ser observados já nas primeiras semanas de aplicação das estratégias apresentadas."
+        },
+        {
+          "question": "Existe garantia de satisfação?",
+          "answer": "Sim, oferecemos garantia de 30 dias. Se não ficar satisfeito, devolvemos 100% do seu investimento."
+        },
+        {
+          "question": "Posso ter acesso aos artefatos digitalmente?",
+          "answer": "Sim, todos os compradores têm acesso gratuito aos artefatos digitais através desta plataforma."
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "title": "Artefatos do Livro",
+    "subtitle": "Explore nossa coleção completa de diagramas, fluxogramas, gráficos e ilustrações. Use os filtros para encontrar exatamente o que você precisa.",
+    "search": "Buscar artefatos...",
+    "filterChapter": "Filtrar por capítulo",
+    "filterType": "Filtrar por tipo",
+    "allChapters": "Todos os capítulos",
+    "allTypes": "Todos os tipos",
+    "clearFilters": "Limpar Filtros",
+    "resultsCount": "{{count}} artefato encontrado",
+    "resultsCount_plural": "{{count}} artefatos encontrados",
+    "noResults": {
+      "title": "Nenhum artefato encontrado",
+      "description": "Tente ajustar seus filtros ou termo de busca"
+    },
+    "viewDetails": "Ver Detalhes",
+    "stats": {
+      "totalArtifacts": "Total de Artefatos",
+      "chapters": "Capítulos",
+      "differentTypes": "Tipos Diferentes"
+    }
+  },
+  "artifactDetail": {
+    "backToArtifacts": "Voltar aos Artefatos",
+    "relatedArtifacts": "Artefatos Relacionados",
+    "noRelated": "Nenhum artefato relacionado encontrado"
+  },
+  "footer": {
+    "contact": "Contato",
+    "social": "Redes Sociais",
+    "rights": "Todos os direitos reservados."
+  },
+  "language": {
+    "portuguese": "Português",
+    "english": "English"
+  }
+}
